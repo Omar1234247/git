@@ -10,3 +10,9 @@ elif o == "x":
 	print(a * b)
 elif o == "/":
 	print(a / b)
+elif o == "%":
+	print(a % b)
+elif o == "**":
+	print(a**b)
+else:
+	print("Not a valid option")
