@@ -1,7 +1,7 @@
 running = True
 while running:
     a = int(input(""))
-    o = input("")
+    o = input("Operation: ")
     b = int(input(""))
 
     if o == "+":
