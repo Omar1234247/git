@@ -23,4 +23,4 @@ while running:
             print(a**b)
             running = False
     else:
-            print("Not a valid option")
+            print("Not correct option!")
