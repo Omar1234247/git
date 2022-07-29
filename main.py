@@ -1,3 +1,4 @@
+print("calc")
 running = True
 while running:
     a = int(input(""))
